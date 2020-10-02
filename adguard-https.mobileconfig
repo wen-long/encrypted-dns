@@ -32,7 +32,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Cloudflare DNS to Big Sur and iOS 14 based systems</string>
+	<string>Adds the AdGuard DNS to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
 	<string>AdGuard DNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
